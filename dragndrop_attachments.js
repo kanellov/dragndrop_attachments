@@ -49,7 +49,7 @@ if (window.rcmail) {
 					builder += bdary;
 					builder += crlf;
 					builder += 'Content-Disposition: form-data; name="_attachments[]"';
-					builder += '; filename="' + fname + '"';
+					builder += '; filename="' +  unescape( encodeURIComponent( fname ) ) + '"';
 					builder += crlf;
 					
 					builder += 'Content-Type: application/octet-stream';
