@@ -1,8 +1,8 @@
 <?php
 /**
- * Drag Upload
+ * dragndrop_attachemnts
  *
- * A plugin to utilize html5 file API to upload attachments
+ * A plugin to utilize html5 file API to upload attachments compatible with roundcube 0.8.0 and newer versions
  *
  * @version 1.0
  * @author Strimpakos Giorgos email: strimpak.geo@gmail.com
