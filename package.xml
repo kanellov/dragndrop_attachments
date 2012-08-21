@@ -4,7 +4,7 @@
 	http://pear.php.net/dtd/package-2.0
 	http://pear.php.net/dtd/package-2.0.xsd">
 	<name>dragndrop_attachments</name>
-	<uri></uri>
+	<uri>https://github.com/strimpak/dragndrop_attachments</uri>
 	<summary>Allow you to drag and drop files in order to upload them as attachments</summary>
 	<description>This is a plugin that extends roundcube when composing a message and gives you the opportunity to drag and drop files to upload them as attachments. It is compatible and tested with roundcube 0.8 and Firefox, Chrome and Opera web browsers.</description>
 	<lead>
