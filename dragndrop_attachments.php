@@ -5,7 +5,7 @@
  * A plugin to utilize html5 file API to upload attachments
  *
  * @version 1.0
- * @author Strimpakos Giorgos
+ * @author Strimpakos Giorgos email: strimpak.geo@gmail.com
  * @url https://github.com/strimpak/dragndrop_attachments
  * 
  *      This program is free software; you can redistribute it and/or modify
