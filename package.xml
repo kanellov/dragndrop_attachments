@@ -37,6 +37,9 @@
 			</file>
 			<file name="CHANGELOG" role="data"/>
 			<file name="README" role="data"/>
+			<file name="localization/en_GB.inc" role="data"/>
+			<file name="localization/en_US.inc" role="data"/>
+			<file name="localization/el_GR.inc" role="data"/>
 		</dir>
 		<!-- / -->
 	</contents>
