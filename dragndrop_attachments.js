@@ -1,9 +1,10 @@
 /* dragndrop_attachments script */
 ;(function ($, window, document, undefined) {
+    var rcmail;
     if (typeof window.rcmail === 'undefined') {
         return;
     }
-    var rcmail = window.rcmail;
+    rcmail = window.rcmail;
     rcmail.addEventListener('init', function(evt) {
         $(document).ready(function() {
             var drag_attach = document.getElementById('compose-attachments');
