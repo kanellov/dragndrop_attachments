@@ -33,7 +33,7 @@ class dragndrop_attachments extends rcube_plugin
     {
         $rcmail = rcmail::get_instance();
         if ('compose' === $rcmail->action) {
-            $this->include_script('dragndrop_attachments.js');
+            $this->include_script('dragndrop_attachments.min.js');
             $this->add_texts('localization/', true);
         }
     }
